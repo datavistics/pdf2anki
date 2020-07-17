@@ -17,6 +17,9 @@ I use python3 and anki 2.1.22, tested it works. Don't hesitate to open an issue 
 * convert
 * anki-connect (addon for anki)
 
+## Python installation
+`pip install -r requirements.txt`
+
 
 ## notes :
 * please don't use this on super large pdf for no reason, or if you do : don't sync it, the creator of anki should not have to pay extra bandwidth for this not intended use so don't forget the "delete media" button.
